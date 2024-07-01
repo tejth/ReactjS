@@ -1,4 +1,7 @@
 # Project Intro (https://tejth-drawingapp.netlify.app/)
+<img width="959" alt="21" src="https://github.com/tejth/ReactjS/assets/110801292/9067a77b-4c72-4181-99cb-d68446a6f04b">
+
+
 
 <p> Simple project using Javascript to create a UI that allows user to draw on the screen and with changing color text </p>
 
