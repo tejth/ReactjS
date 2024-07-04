@@ -1,5 +1,7 @@
 # Intro  
-<a  href ="https//tejth-currencyconvertor.netlify.app"                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+<a href="https://tejth-currencyconvertor.netlify.app">Open Site</a>
+
   
   
   
@@ -20,7 +22,6 @@
   
   
   
-   >Open Site</a>  
 <p> Converts Currency of one country to another</p>
 <img width="959" alt="asfas" src="https://github.com/tejth/ReactjS/assets/110801292/38d69b3b-ed85-461c-9d10-c7d76b95f4fd">
 
