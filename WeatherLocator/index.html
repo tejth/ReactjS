@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather App</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <!-- nav div  -->
+    <div class="main-div">
+      <div class="nav">
+        <input type="text" placeholder="Enter city name" />
+        <img src="./images/search.png" alt="search image" />
+      </div>
+
+      <!-- city div  -->
+      <div class="weather-details">
+        <img src="./images/clear.png" alt="clear-weather" />
+        <div class="temp-city">
+          <span class="tempspan"> </span>
+          <span class="temp-city-name"></span>
+        </div>
+      </div>
+
+      <!-- details div  -->
+      <div class="rest-details">
+        <div class="humidity">
+          <img src="./images/humidity.png" alt="" />
+          <div class="sub-humidity">
+            <span class="hum-value"></span>
+            <span class="hum-tag">Humidity</span>
+          </div>
+        </div>
+        <div class="wind-speed humidity">
+          <img src="./images/wind.png" alt="" />
+          <div class="sub-wind sub-humidity">
+            <span class="wind-value hum-value"></span>
+            <span class="wind-tag hum-tag">Wind Speed</span>
+          </div>
+        </div>
+      </div>
+      <!-- //// -->
+      <div class="rest-details2 cloud">
+        <div class="humidity">
+          <img src="./images/humidity.png" alt="" />
+          <div class="sub-humidity">
+            <span class="cloud-value"></span>
+            <span class="hum-tag">Cloud</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script type="module" src="./script.js"></script>
+</html>
