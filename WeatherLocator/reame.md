@@ -1,5 +1,7 @@
 # Weather Locator
-https://github.com/user-attachments/assets/4c2a4b99-8ab9-41f8-8546-2fb7cebdea46
+https://github.com/user-attachments/assets/c9cbb980-48ef-43de-92b5-027e7a504375
+
+
 
 
 <p>A simple Weather app that gives you details about weather by taking city name as an input</p>
